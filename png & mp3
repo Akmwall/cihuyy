@@ -1,0 +1,4 @@
+shutil.copy("/mnt/data/ttd.png", project_public_dir / "ttd.png")
+shutil.copy(
+    "/mnt/data/”hold on and hope that we'll find our way back again in the end aboutyou 1975 shortvideo music.mp3",
+    project_public_dir / "musik.mp3"
